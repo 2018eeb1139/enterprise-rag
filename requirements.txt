@@ -1,0 +1,12 @@
+ipykernel
+langchain
+langchain-groq
+python-dotenv
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-huggingface 
+sentence-transformers
+scikit-learn
+langchain-qdrant
+qdrant_client
