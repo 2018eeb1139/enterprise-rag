@@ -13,7 +13,7 @@ def get_city_weather(city):
     return response.text
 
 def get_user_city():
-    return "Kanpur"
+    return "Banglore"
 
 def run_tool(tool_call):
     func_name = tool_call.function.name
