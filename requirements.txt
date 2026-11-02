@@ -1,6 +1,7 @@
 ipykernel
 langchain
 langchain-groq
+langchain_google_genai
 python-dotenv
 langchain-community
 pypdf
@@ -10,3 +11,5 @@ sentence-transformers
 scikit-learn
 langchain-qdrant
 qdrant_client
+requests
+langgraph
