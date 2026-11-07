@@ -28,6 +28,7 @@ def run_tool(tool_call):
         result = f"Error while running function {func_name} : {e}"
 
     log(f"Result: {result}")
+    return result
 
 TOOLS = [
     {
